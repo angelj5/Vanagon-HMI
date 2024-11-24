@@ -10,11 +10,11 @@
 ![Waveshare 1.9inch LCD Module PinOut](LCD_Module.png)
 ## Software
 ### Hardware Connection
-VCC ----> +5V
-GND ----> GND
-DIN ----> D8(COPI)
-CLK ----> D9(SCK)
-CS  ----> D6
-DC  ----> D7
-RST ----> D5
-BL  ----> D3
++ VCC ----> +5V
++ GND ----> GND
++ DIN ----> D8(COPI)
++ CLK ----> D9(SCK)
++ CS  ----> D6
++ DC  ----> D7
++ RST ----> D5
++ BL  ----> D3
