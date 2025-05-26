@@ -20,7 +20,7 @@ String previousAltitud = "";
 
 void setupDisplay() {
   tft.init(170, 320);           // Initialize display
-  tft.setRotation(3);           // Set rotation if needed
+  tft.setRotation(1);           // Set rotation if needed
   tft.fillScreen(ST77XX_BLACK); // Clear the screen 
 }
 
